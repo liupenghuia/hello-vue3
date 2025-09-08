@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig, prettier, unocss, vue } from '@bassist/eslint'
+import { defineConfig, prettier, unocss, vue } from "@bassist/eslint";
 
 // https://github.com/chengpeiquan/bassist/tree/main/packages/eslint
 export default defineConfig([
@@ -10,8 +10,8 @@ export default defineConfig([
     rules: {
       // By default, this rule is `off`
       // 'vue/component-tags-order': 'error',
-      '@unocss/order': 'off',
+      "@unocss/order": "off",
     },
-    ignores: ['dist'],
+    ignores: ["dist"],
   },
-])
+]);

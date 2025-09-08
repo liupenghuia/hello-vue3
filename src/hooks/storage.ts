@@ -26,3 +26,4 @@ export function useStorage(type: StorageType = 'localStorage') {
     storage,
   }
 }
+
