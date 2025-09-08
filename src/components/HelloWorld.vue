@@ -35,7 +35,7 @@
   <ul>
     <li>
       Click
-      <router-link to="/foo">
+      <router-link to="/foo/detail">
         <span>Here</span>
       </router-link>
       to see a children router.
