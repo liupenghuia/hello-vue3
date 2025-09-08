@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" :src="logo" />
     <ToggleTheme />
-    <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+    <HelloWorld msg="Hello Vue 3 + TypeScript + Vite 学习" />
   </div>
 </template>
 
